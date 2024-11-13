@@ -1,0 +1,33 @@
+input-output-tkinter 
+mosenicheskie_operation_Catboost 
+waujito.github.io 
+
+
+https://habr.com/ru/companies/mvideo/articles/769190/
+https://habr.com/ru/companies/wunderfund/articles/677068/
+https://habr.com/ru/articles/821231/
+https://habr.com/ru/companies/ods/articles/323730/
+https://habr.com/ru/articles/207160/
+https://education.yandex.ru/handbook/ml/article/vremennye-ryady
+https://www.kaggle.com/code/matcha0714/taxi-prediction-in-catboost#Data-&-Feature-engineering
+https://www.kaggle.com/code/jsylas/python-version-of-top-ten-rank-r-22-m-2-88/script
+https://www.kaggle.com/code/salazarslytherin/intro-to-ml-full-kaggle-mini-course
+https://ivan-shamaev.ru/time-series-analysis-forecasting-and-models-python-libraries/
+http://1.m-teacher.ru/
+
+
+логарифмирование признаков, прикрепленный блокнот: https://colab.research.google.com/drive/19YClC3ts2xQM_JhDFb4Ob0AY1XZ_pHok?usp=sharing#scrollTo=PGVzFlAD20_X
+
+lgbm geo: https://www.kaggle.com/code/jsylas/python-version-of-top-ten-rank-r-22-m-2-88
+
+загуглить самые сильно влияющие на задание фичи и создать их в датасете
+использовать gpt для поиска признаков и их генерации
+
+dark516
+vrerasel
+zalupa52
+Gadgik
+TeplovDaniil
+
+
+
