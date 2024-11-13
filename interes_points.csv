@@ -1,0 +1,11 @@
+type,name,latitude,longitude
+Airport,Guardia,40.775235,-73.874517
+Airport,John F. Kennedy International Airport,40.642100,-73.789290
+Street,Wall Street,40.706974,-74.009697
+Park,Manhattan,40.778226,-73.968323
+Railway station,Grand Central Station,40.752631,-73.977364
+Street,Times Square,40.757566,-73.985786
+Street,Brodway,40.794742,-73.971547
+Building,Empire State Building,40.748427,-73.985563
+Park,National September 11th Memorial,40.711629,-74.013478
+Building,Brooklyn Bridge,40.704352,-73.994877
